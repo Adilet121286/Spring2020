@@ -54,6 +54,15 @@ public class ArrayList_Methods {
             reversedList3.add(list3.get(i));
         }
         System.out.print(reversedList3);
+        System.out.print(list3.size());
+
+        list3.clear();
+        boolean r4 = list3.isEmpty();
+        System.out.println(r4);
+
+
+
+
 
 
     }
