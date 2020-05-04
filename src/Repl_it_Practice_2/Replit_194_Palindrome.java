@@ -8,12 +8,15 @@ public class Replit_194_Palindrome {
 
 
     public static boolean isPalindrome(String check) {
-        String reverse="";
-        for (int i=check.length()-1;i>=0;i--){
-            reverse +=check.charAt(i);
+        String kcehc="";
+        String check1=check.replaceFirst(" ","");
+        for (int i=check1.length()-1; i>=0; i--){
+            kcehc+=check1.charAt(i);
         }
-
-        return reverse.equalsIgnoreCase(check);
+        if (check1.equalsIgnoreCase(kcehc)){
+            return true;
+        }else {
+            return false;}
 
 
     }

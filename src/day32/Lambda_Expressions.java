@@ -46,6 +46,7 @@ public class Lambda_Expressions {
 
         nameList.removeIf(startsWithMorA);
 
+
         System.out.println(nameList);
 
         System.out.println("=============================================");

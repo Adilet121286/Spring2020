@@ -26,5 +26,6 @@ public class Duplicates2 {
         }
         System.out.println(result);
 
+
     }
 }

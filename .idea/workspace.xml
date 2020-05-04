@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a0935ac-4d59-429d-a496-b54c00d90174" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day32/Duplicates2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32/Lambda_Expressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_183_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ArrayList_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review_Classes/review_day32/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review_Classes/review_day32/WarmUp_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtraChar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtractChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_extractChars3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Warmaup_Duplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_181_Combine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_181_Combine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_194_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_194_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/day32/Duplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/day32/Duplicates2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/day32/Lambda_Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/day32/Lambda_Expressions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_181_Combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_181_Combine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_194_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_194_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/Duplicates2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/Duplicates2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/Lambda_Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/Lambda_Expressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/MoveZeros2.java">
+        <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day29/WrapperClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WurmUp_Uniques.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="24" column="52" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,10 +51,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/Duplicates.java">
+        <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/Warmaup_Duplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="363">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,89 +63,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/Duplicates2.java">
+        <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtractChars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="38" column="41" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="38" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/CollectionMethod.java">
+        <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtraChar2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/Uniques.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#246#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day32/Lambda_Expressions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day19_arrays/NewNew.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="62" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day32/NewNew.java">
+        <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_extractChars3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="73">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#488#499#0" expanded="true" />
+                <element signature="e#686#697#0" expanded="true" />
+                <element signature="e#839#850#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day19_arrays/Uniques.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day20_ArrayContiniue/Arrays_Equal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -152,21 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_176_Overloading1.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_178_MergeArrays.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_179_ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_189_FindErrorString.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_170_CleanString.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_194_Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_186_ExtraNumber.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_209_plusMinus.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_168_cover.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unbaxing.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethod.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethod.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" />
-        <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_intro.java" />
         <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice.java" />
         <option value="$PROJECT_DIR$/src/Resources/Library.java" />
         <option value="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice2.java" />
@@ -197,12 +146,27 @@
         <option value="$PROJECT_DIR$/src/day32/MoveZeros.java" />
         <option value="$PROJECT_DIR$/src/day32/MoveZeros2.java" />
         <option value="$PROJECT_DIR$/src/day32/Duplicates.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java" />
-        <option value="$PROJECT_DIR$/src/day32/Duplicates2.java" />
         <option value="$PROJECT_DIR$/src/day32/NewNew.java" />
         <option value="$PROJECT_DIR$/src/day32/CollectionMethod.java" />
         <option value="$PROJECT_DIR$/src/day32/Uniques.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day32/MoveZerros.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day32/MoveZeros2.java" />
+        <option value="$PROJECT_DIR$/src/day32/Duplicates2.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day32/Duplicates.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day32/CollektionsMethod.java" />
         <option value="$PROJECT_DIR$/src/day32/Lambda_Expressions.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day32/WarmUp_1.java" />
+        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ExtractNumberFromString.java" />
+        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ArrayList_Search.java" />
+        <option value="$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java" />
+        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_194_Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_183_ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Review_Classes/review_day29/WrapperClass.java" />
+        <option value="$PROJECT_DIR$/src/day33_CustomClass/WurmUp_Uniques.java" />
+        <option value="$PROJECT_DIR$/src/day33_CustomClass/Warmaup_Duplicates.java" />
+        <option value="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtractChars.java" />
+        <option value="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtraChar2.java" />
+        <option value="$PROJECT_DIR$/src/day33_CustomClass/WarmUp_extractChars3.java" />
       </list>
     </option>
   </component>
@@ -218,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,17 +198,31 @@
               <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day32" type="462c0819:PsiDirectoryNode" />
+              <item name="day33_CustomClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Review_Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Review_Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="review_day29" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588364955119" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588604994629" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -271,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lambda_Expressions">
+  <component name="RunManager" selected="Application.WarmUp_extractChars3">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.ArrayList_Methods" />
       <module name="Spring2020B17_java" />
@@ -285,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.CollectionMethod" />
+    <configuration name="WarmUp_ExtraChar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.WarmUp_ExtraChar2" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.Duplicates2" />
+    <configuration name="WarmUp_ExtractChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.WarmUp_ExtractChars" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.Lambda_Expressions" />
+    <configuration name="WarmUp_extractChars3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.WarmUp_extractChars3" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.NewNew" />
+    <configuration name="Warmaup_Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.Warmaup_Duplicates" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.Uniques" />
+    <configuration name="WurmUp_Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.WurmUp_Uniques" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lambda_Expressions" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.CollectionMethod" />
-        <item itemvalue="Application.NewNew" />
-        <item itemvalue="Application.Duplicates2" />
+        <item itemvalue="Application.WarmUp_extractChars3" />
+        <item itemvalue="Application.WarmUp_ExtraChar2" />
+        <item itemvalue="Application.WarmUp_ExtractChars" />
+        <item itemvalue="Application.Warmaup_Duplicates" />
+        <item itemvalue="Application.WurmUp_Uniques" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +363,7 @@
     <frame x="0" y="23" width="1278" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25161812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26375404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +372,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32847896" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.37012988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.37012988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39772728" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,122 +455,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Resources/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="95" column="19" lean-forward="true" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="method#main#0;class#List_Practice2#0" />
-            <element signature="method#MaximumNumber#0;class#List_Practice2#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Assessment2_AppearsTwice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_arrays/Array_Practice1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_arrays/Arrays_Intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_arrays/Arrays_MyFriendsNames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_arrays/Arrays_Practice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_arrays/Frequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day30_ArratList.java" />
-    <entry file="file://$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Assessment3_ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -779,60 +640,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/MoveZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="33" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/MoveZeros2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/Duplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/Duplicates2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day19_arrays/NewNew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/NewNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -850,10 +671,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/CollectionMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes.java" />
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day32/MoveZerros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="95">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/MoveZeros2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day32/MoveZeros2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/Duplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day32/Duplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/Duplicates2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -862,31 +744,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day32/Uniques.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="511">
           <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#246#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/CollectionMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day32/Lambda_Expressions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="-211">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/NewNew.java">
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day32/WarmUp_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="346">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ExtractNumberFromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_194_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day32/CollektionsMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ArrayList_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#262#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_183_ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Review_Classes/review_day29/WrapperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WurmUp_Uniques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/Warmaup_Duplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtractChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_ExtraChar2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day33_CustomClass/WarmUp_extractChars3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#488#499#0" expanded="true" />
+            <element signature="e#686#697#0" expanded="true" />
+            <element signature="e#839#850#0" expanded="true" />
           </folding>
         </state>
       </provider>

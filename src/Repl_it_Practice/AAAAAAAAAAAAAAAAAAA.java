@@ -1,37 +1,25 @@
 package Repl_it_Practice;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Scanner;
-
-import static java.lang.Math.abs;
-
-public class AAAAAAAAAAAAAAAAAAA {
-    public static void main(String[] args) {
-
-        ArrayList<Integer> list1 = new ArrayList<>();
-
-
-        list1.addAll(Arrays.asList(1,2,3,4,5,6,7));
-
-        for (Integer each: list1){
-            if (each%2 !=0){
-                continue;
-            }
-            System.out.println(each+" ");
-            break;
+class Main {
+    public static boolean isAnagram(String word1, String word2) {
+        if (word1.length() != word2.length()){
+            return  false;
         }
-
-
-
-        System.out.println(list1);
-
-
-
-
-
+        word1 =word1.toLowerCase();
+        word2=word2.toLowerCase();
+        char[] ch1 =word1.toCharArray();
+        char[] ch2 =word2.toCharArray();
+        Arrays.sort(ch1);
+        Arrays.sort(ch2);
+        System.out.println(Arrays.toString(ch1));
+        System.out.println(Arrays.toString(ch2));
+        if (Arrays.equals(ch1,ch2)){
+            return true;
+        }else {
+            return false;
+        }
     }
 }
-
 
 
