@@ -14,7 +14,7 @@ public class Replit_086_CatsDogs {
             countOfCats++;
             word = word.replaceFirst("cat", " ");
         }
-        while (word.contains("dog")){
+        while (word.contains("Dog")){
             countOfDogs++;
             word = word.replaceFirst("dog", " ");
         }
