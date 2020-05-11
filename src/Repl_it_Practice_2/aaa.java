@@ -2,25 +2,32 @@ package Repl_it_Practice_2;
 
 import java.util.ArrayList;
 
-public class aaa {
+
+public class aaa{
+
+    static String name = "Aaron";
+
     public static void main(String[] args) {
 
-        String s = "ds12ddd4f5";
+
+        System.out.println("Daniel");
+
+    }
+
+    public static void print(String str){
+        System.out.println(str);
+    }
+
+    static {
+        print(name);
+    }
 
 
-        char[]ch = s.toCharArray();
-        ArrayList<Character> list = new ArrayList<>();
-        String result = "";
 
-        for (Character each: ch){
-            list.add(each);
-            if (each.isDigit(each)){
-                result +=each;
-            }
 
-        }
-        System.out.println(result);
+
+
 
 
     }
-}
+
