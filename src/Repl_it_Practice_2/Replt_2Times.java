@@ -16,8 +16,11 @@ public class Replt_2Times {
     public static ArrayList<Integer> twoTimes(ArrayList<Integer> list){
         ArrayList<Integer> result = new ArrayList<>();
 
+
         for (int k=0; k < list.size();k++){
             result.add(list.get(k));
+            result.add(list.get(k));
+
 
         }
         return result;

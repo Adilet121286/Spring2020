@@ -1,25 +1,26 @@
 package Repl_it_Practice_2;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.function.Predicate;
 
-public class Replit_ExtractNumberFromString {
-    public static String extractNum(String s) {
+public class aaa {
+    public static void main(String[] args) {
+
+        String s = "ds12ddd4f5";
+
 
         char[]ch = s.toCharArray();
         ArrayList<Character> list = new ArrayList<>();
         String result = "";
+
         for (Character each: ch){
+            list.add(each);
             if (each.isDigit(each)){
                 result +=each;
             }
+
         }
+        System.out.println(result);
 
-
-        return result;
 
     }
-
 }
