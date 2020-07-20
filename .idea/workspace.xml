@@ -1,27 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2a0935ac-4d59-429d-a496-b54c00d90174" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CarObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ConstructorIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CybertekStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/InstanceBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/StaticReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/StudentObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_ExtractNumberFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_ExtractNumberFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/META-INF/Spring2020B17_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/Replit_122_Arrays_ZombiAttack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/Replit_122_Arrays_ZombiAttack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/Replit_155_FibonacciNimbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice/Replit_155_FibonacciNimbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_AlterArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/Replit_AlterArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Repl_it_Practice_2/aaa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/Resources/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/Resources/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_java/day37_Constructors/CybertekStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_java/day37_Constructors/CybertekStudents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice/Replit_122_Arrays_ZombiAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice/Replit_122_Arrays_ZombiAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice/Replit_155_FibonacciNimbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice/Replit_155_FibonacciNimbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AlterArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AlterArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Arrays_Diving3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Arrays_Diving3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Repl_it_Practice_2/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_it_Practice_2/aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaijan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaijan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Encapsulations_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Encapsulations_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/CircleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/CircleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/ConstructorCalls3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/ConstructorPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/ConstructorPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/EmployeeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/EmployeeSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/SalaryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day38_Constractors/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constractors/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/EmployeeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/EmployeeObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulatiion/Credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulatiion/Credentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulatiion/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulatiion/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulatiion/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulatiion/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulatiion/PersonObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulatiion/PersonObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulatiion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulatiion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/InstanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/InstanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Instances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Instances.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/StaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/StaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Statics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Statics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/practice_05_13_2020/Student.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,221 +74,39 @@
       <FILTER>day34_CustomClass.*</FILTER>
     </SUITE>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/aaa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/StaticReview.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/InstanceBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/ConstructorIntro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/StudentObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/CarObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day37_Constructors/CybertekStudents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/officeHours</dir>
       <dir>$PROJECT_DIR$/src/day09_NestedIf_Ternary</dir>
+      <dir>$PROJECT_DIR$/src/day43_MethodOverriding</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/day35_Static/OfferObjects.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/staticVariables.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/staticVariables2.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/staticMethods.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/staticPractice.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/Dog.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/staticPractice2.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/Student.java" />
-        <option value="$PROJECT_DIR$/src/day35_Static/StudentObjects.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/CapitalOne.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/Test.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock3.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock4.java" />
-        <option value="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AlterArray.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_CombineToFullName.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ConditionalStatement.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_SwitchElements.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ClassObject_PlayListEntry.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_LameCalculator.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_193_OOP2.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/LameCalculator.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_191_OOP1.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RowSum2DArray.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AppendPosSum.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replt_2Times.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_swap.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RemoveAllMethod.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RemoveInstance.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_DeliveryCalc.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_185_Add.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice/AAAAAAAAAAAAAAAAAAA.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice/aaa.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Search.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ExtractNumberFromString.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/Employee.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaijan.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/Data.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java" />
-        <option value="$PROJECT_DIR$/src/Repl_it_Practice_2/aaa.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/InstanceBlock.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/ConstructorIntro.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/Student.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/StudentObject.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/Car.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/CarObjects.java" />
-        <option value="$PROJECT_DIR$/src/day37_Constructors/CybertekStudents.java" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1ejGN5XWNLSjZfyLkbZ8Q2YPdkB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="23" />
-    <option name="width" value="1262" />
-    <option name="height" value="730" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2020B17_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day37_Constructors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2020B17_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589227299414" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594230877186" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -260,19 +120,7 @@
       <recent name="day27_DataTime" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CObjects">
+  <component name="RunManager" selected="Application.CodingBat">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.ArrayList_Methods" />
       <module name="Spring2020B17_java" />
@@ -286,38 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors.CObjects" />
+    <configuration name="CodingBat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes_Variables.CodingBat" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors.CarObjects" />
-      <module name="Spring2020B17_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day37_Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors.ConstructorIntro" />
-      <module name="Spring2020B17_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day37_Constructors.*" />
+          <option name="PATTERN" value="Classes_Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors.InstanceBlock" />
+    <configuration name="FinRa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="officeHours.SaimDay9.FinRa" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructors.*" />
+          <option name="PATTERN" value="officeHours.SaimDay9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +173,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors.StudentObject" />
+    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Frequency" />
       <module name="Spring2020B17_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructors.*" />
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_Adstraction.Interface2" />
+      <module name="Spring2020B17_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day48_Adstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="officeHours.SaimDay9.RemoveDups" />
+      <module name="Spring2020B17_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="officeHours.SaimDay9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CObjects" />
-        <item itemvalue="Application.CarObjects" />
-        <item itemvalue="Application.StudentObject" />
-        <item itemvalue="Application.ConstructorIntro" />
-        <item itemvalue="Application.InstanceBlock" />
+        <item itemvalue="Application.CodingBat" />
+        <item itemvalue="Application.RemoveDups" />
+        <item itemvalue="Application.FinRa" />
+        <item itemvalue="Application.Interface2" />
+        <item itemvalue="Application.Frequency" />
       </list>
     </recent_temporary>
   </component>
@@ -396,61 +244,12 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1262" height="730" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22131148" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49836066" visible="true" weight="0.3691057" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3836478" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32682925" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32520324" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50163937" side_tool="true" weight="0.3707317" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286385" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32520324" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3284553" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959612" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32928804" />
-    </layout>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -469,6 +268,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1207" height="291" key="GridCell.Tab.0.bottom" timestamp="1595253292610">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="291" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1595202682912" />
+    <state width="1207" height="291" key="GridCell.Tab.0.bottom/0.23.1280.745/1280.23.1920.1057@1280.23.1920.1057" timestamp="1595253292610" />
+    <state width="1207" height="291" key="GridCell.Tab.0.center" timestamp="1595253292609">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="291" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1595202682908" />
+    <state width="1207" height="291" key="GridCell.Tab.0.center/0.23.1280.745/1280.23.1920.1057@1280.23.1920.1057" timestamp="1595253292609" />
+    <state width="1207" height="291" key="GridCell.Tab.0.left" timestamp="1595253292608">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="291" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1595202682904" />
+    <state width="1207" height="291" key="GridCell.Tab.0.left/0.23.1280.745/1280.23.1920.1057@1280.23.1920.1057" timestamp="1595253292608" />
+    <state width="1207" height="291" key="GridCell.Tab.0.right" timestamp="1595253292609">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="291" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1595202682910" />
+    <state width="1207" height="291" key="GridCell.Tab.0.right/0.23.1280.745/1280.23.1920.1057@1280.23.1920.1057" timestamp="1595253292609" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -489,416 +314,16 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day42_Inharitance/Task01/Person.java</url>
+          <line>13</line>
+          <properties class="day42_Inharitance.Task01.Person" method="setPersonInfo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day36_StaticBlock/CapitalOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day35_Static/StudentObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AlterArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_187_Combine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_CombineToFullName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ConditionalStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="10" selection-start-column="8" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_SwitchElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="17" selection-start-line="18" selection-start-column="7" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/LameCalculator" />
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ClassObject_PlayListEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_191_OOP1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" selection-start-line="18" selection-start-column="4" selection-end-line="32" />
-          <folding>
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_193_OOP2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/LameCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replt_2Times.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/CollectionMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RemoveAllMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_DeliveryCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_185_Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice/aaa.java" />
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RemoveInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_AppendPosSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_RowSum2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="9" selection-start-line="21" selection-start-column="7" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/officeHours/practice_05_06_2020/AppleINC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/officeHours/practice_05_06_2020/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/officeHours/practice_04_29_2020/ArrayList_Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1266">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/officeHours/practice_04_29_2020/ArrayList_Methods2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/officeHours/practice_04_22_2020/return_Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/Lambda_Expressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_ExtractNumberFromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/Replit_Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaijan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/HumanResources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Repl_it_Practice_2/aaa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/StaticReview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/InstanceBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/ConstructorIntro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/StudentObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/CarObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/CybertekStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

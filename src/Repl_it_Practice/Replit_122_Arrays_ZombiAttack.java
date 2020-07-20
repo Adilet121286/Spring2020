@@ -13,21 +13,6 @@ public class Replit_122_Arrays_ZombiAttack {
 
         //TODO. Write you code below this line.
 
-        int [] arr1 = new int[inhabitants.length];
-
-
-
-
-           for (int i = 0; i < inhabitants.length; i++) {
-               arr1[i] = inhabitants[i] / 2;
-
-           }
-           System.out.println(Arrays.toString(arr1));
-
-
-
-
 
     }
-
 }

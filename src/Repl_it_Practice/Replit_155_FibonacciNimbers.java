@@ -13,9 +13,8 @@ public class Replit_155_FibonacciNimbers {
     public static void fib(int num){
         //WRITE YOUR CODE HERE
 
-        for (int i= 0; i<=num; i++ ){
-
-        }
+       int[] arr = new int [num+1];
+       arr[1] = 1;
 
     }
 
